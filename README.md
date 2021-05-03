@@ -1,6 +1,4 @@
 # GreendayTracks
-유현민, 모바일팀, 과제전형
-
 iTunes 검색 api로 "Greenday" 검색 결과를 보여주는 어플리케이션.
 검색 결과와 Favorite 저장 기능이 있다.
 
